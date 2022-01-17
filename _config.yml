@@ -87,7 +87,7 @@ avatar:
 # boolean type, the global switch for ToC in posts.
 toc: true
 
-futrue: ture
+futrue: true
 
 comments:
   active:         # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
